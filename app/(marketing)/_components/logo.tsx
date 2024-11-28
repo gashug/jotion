@@ -12,7 +12,7 @@ export const Logo = () => {
   return (
     <div>
       <Image src="/logo.svg" height="40" width="40" alt="Logo" />
-      <p className={cn("font-semibold", font.className)}>(N/J)otion</p>
+      <p className={cn("font-semibold", font.className)}>Jotion</p>
     </div>
   );
 };
